@@ -14,5 +14,5 @@
 * * *
 
 ## 💻 Stats  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heojiyeon&&theme=radical&layout=compact"> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heojiyeon&theme=radical&show_icons=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heojiyeon&&theme=radical&layout=compact"> <br>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Heojiyeon&theme=radical&show_icons=true)
